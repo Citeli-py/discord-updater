@@ -24,7 +24,7 @@ Before using the Discord Updater, ensure that you have the following dependencie
     cd discord-updater
     ```
 
-3. **Set Permissions**: Ensure that the script file (`discord.py`) has executable permissions. You can do this by running the following command:
+3. **Set Permissions**: Ensure that the script file (`discord-updater.sh`) has executable permissions. You can do this by running the following command:
 
     ```
     chmod +x discord-updater.sh
